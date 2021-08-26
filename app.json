@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "baidi",
+    "description": "baidi",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/DaoChen6/IF-XTW",
-    "repository": "https://github.com/DaoChen6/IF-XTW",
+    "website": "https://github.com/nalywivi/baidi",
+    "repository": "https://github.com/nalywivi/baidi",
     "stack": "container"
 }
